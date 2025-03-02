@@ -70,7 +70,7 @@ class Agents(commands.Cog):
         embed.add_field(name = 'AGENTS INFO', value = agents_info_field, inline = True)
         embed.add_field(name = 'MORE INFO', value = more_info_field, inline = True)
         embed.add_field(name = 'SIGNATURE W-ENGINE', value = signature_w_engine, inline = False)
-        embed.set_footer(text = 'Data Collected from Zenless Zone Zero Fanom Wiki', icon_url = 'https://static.wikia.nocookie.net/6a181c72-e8bf-419b-b4db-18fd56a0eb60')
+        embed.set_footer(text = 'Data Collected from Zenless Zone Zero Fandom Wiki', icon_url = 'https://static.wikia.nocookie.net/6a181c72-e8bf-419b-b4db-18fd56a0eb60')
         
         await ctx.send(embed = embed)
         
