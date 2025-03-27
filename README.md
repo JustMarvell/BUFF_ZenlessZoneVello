@@ -1,5 +1,5 @@
 Just my random project to fill my time :)
+I did not host this bot btw :(
 
-installation link : https://discord.com/oauth2/authorize?client_id=1339815104836931615&permissions=1689934474246208&integration_type=0&scope=bot
+installation link : https://discord.com/oauth2/authorize?client_id=1345378544456568852&permissions=1707535116008512&integration_type=0&scope=bot
 
-note that this bot is not hosted :(
